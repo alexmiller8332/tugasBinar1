@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+}
+.flex-container-r {
+	display: flex;
+	background-color: grey;
+	flex-direction: row;
+}
+.flex-container-rr {
+	display: flex;
+	background-color: grey;
+	flex-direction: row-reverse;
+}
+.flex-container-c {
+	display: flex;
+	background-color: grey;
+	flex-direction: column;
+}
+.flex-container-cr {
+	display: flex;
+	background-color: grey;
+	flex-direction: column-reverse;
+}
+li {
+	background-color: #f1f1f1;
+  	margin: 10px;
+  	padding: 20px;
+  	font-size: 30px;
+  	list-style: none;
+}
